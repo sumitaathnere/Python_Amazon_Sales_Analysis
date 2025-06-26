@@ -21,4 +21,3 @@ The data analysis reveals that the business has a significant customer base in M
 
 ---
 
-## 🗂️ File Structure
