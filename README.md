@@ -20,4 +20,8 @@ This project performs Exploratory Data Analysis (EDA) on Amazon sales data to un
 The data analysis reveals that the business has a significant customer base in Maharashtra state, mainly serves retailers, fulfills orders through Amazon, experiences high demand for T-shirts, and sees M-Size as the preferred choice among buyers.¶
 
 ---
+📬 Contact
+If you have any questions, feedback, or suggestions, feel free to reach out! 😊
+Email: sumitaathnere7@gmail.com
 
+⭐ Enjoy Exploring the Amazon Sales Data with Python and Jupyter Notebook! 🚀
